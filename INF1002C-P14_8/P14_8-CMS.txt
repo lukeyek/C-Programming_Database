@@ -1,0 +1,11 @@
+==============================
+File Name: P14_8-CMS.txt
+Database Name: StudentRecords
+==============================
+[ID],[Name],[Programme],[Marks],[Grade]
+2301234,Joshua Chen,Software Engineering,70.5,B+
+2201234,Isaac Teo,Computer Science,63.4,B-
+2304567,John Levoy,Digital Supply Chain,85.9,A+
+2401872,James Hong,Applied Computing (Fintech),77.0,A-
+1234567,Samantha,Engineering,99.0,A+
+7843456,Tim Hong,TikTok Creator,88.0,A+
